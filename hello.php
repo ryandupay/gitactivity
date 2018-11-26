@@ -2,6 +2,6 @@
 
 echo "Hello :D";
 echo "I'm sleepy - nemui";
-echo "I want to eat ramen";
+echo "I don't want to eat ramen";
 
 ?>
